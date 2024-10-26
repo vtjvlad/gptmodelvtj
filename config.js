@@ -1,0 +1,2 @@
+// config.js
+const API_KEY = "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";  // Замените на ваш API-ключ
